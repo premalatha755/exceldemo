@@ -1,0 +1,76 @@
+{
+  "snapshot": {
+    "dynamic_folders": {
+      "Computer Servers": {
+        "key": "computer_servers",
+        "version": "03_08_2022_10_38_30"
+      },
+      "Desktop Computers": {
+        "key": "desktop_computers",
+        "version": "03_08_2022_10_38_30"
+      },
+      "Laptop Computers": {
+        "key": "laptop_computers",
+        "version": "03_08_2022_10_38_30"
+      },
+      "Thin Clients": {
+        "key": "thin_clients",
+        "version": "03_08_2022_10_38_30"
+      },
+      "E-Book Readers": {
+        "key": "e_book_readers",
+        "version": "03_08_2022_10_38_53"
+      },
+      "Graphics Tablets": {
+        "key": "graphics_tablets",
+        "version": "03_08_2022_10_38_53"
+      },
+      "PDAs": {
+        "key": "pdas",
+        "version": "03_08_2022_10_38_53"
+      },
+      "Tablet Computers": {
+        "key": "tablet_computers",
+        "version": "03_08_2022_10_38_53"
+      },
+      "Computer Software": {
+        "key": "computer_software",
+        "version": "03_08_2022_10_39_25"
+      },
+      "Tires": {
+        "key": "tires",
+        "version": "03_08_2022_10_39_54"
+      },
+      "ATV Tires": {
+        "key": "ib_atv_tires",
+        "version": "03_08_2022_10_39_54"
+      },
+      "Farm Tires": {
+        "key": "farm_tires",
+        "version": "03_08_2022_10_39_54"
+      },
+      "Motorcycle Tires": {
+        "key": "ib_motorcycle_tires",
+        "version": "03_08_2022_10_39_54"
+      },
+      "Bicycle Tires": {
+        "key": "bicycle_tires",
+        "version": "03_08_2022_10_39_54"
+      }
+    },
+    "shared_folders": {
+      "Orderable DSD": {
+        "key": "dsd",
+        "version": "03_07_2022_15_42_07"
+      },
+      "Trade Item DSD GM": {
+        "key": "trade_item_dsd_gm",
+        "version": "03_09_2022_11_20_58"
+      },
+      "Workflow": {
+        "key": "workflow",
+        "version": "04_28_2021_02_29_16"
+      }
+    }
+  }
+}
