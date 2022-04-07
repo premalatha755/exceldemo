@@ -1,4 +1,14 @@
 {
+  "config_version": "2.0",
+  "spec_version": "2.0.20220309-12_24_58",
+  "spec": "Omni 2.0",
+  "locale": [
+    "EN"
+  ],
+  "is_maintenance_spec": false,
+  "feed_type": [
+    "OMNI_DSD_GM"
+  ],
   "snapshot": {
     "dynamic_folders": {
       "Computer Servers": {

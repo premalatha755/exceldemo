@@ -1,4 +1,4 @@
-package com.sample.excel.exceldemo.controller;
+package com.sample.excel.exceldemo.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
